@@ -1,0 +1,11 @@
+{
+  "version": "0.1.16",
+  "notes": "Versión inicial con soporte para actualizaciones automáticas.",
+  "pub_date": "2026-04-24T10:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbVVBRnllbktlYnFhRjFnb014Sm9wMFNSb2tCbkxuOUxiN2h4UEswQ3Y2by9wanpGeVBneU9KT0w2bmNFN1o3WjVvMjZWUGNrQTBhUGpsS1ZncmVETHpkYVY5NVFhdWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQyNDMyCWZpbGU6U2VsYWhQb3NfMC4xLjE2X3g2NF9lbi1VUy5tc2kKVi93QmNFRWRjWlJjcDhxQjNCSHI0MEJTWTNBY3VBalUrd2tOWGg3aGlXV093eW4wKytKNHNkZjhsU3AzeDVDUnZuZGRla1RzOU5JUWxhckJXTjVFRHc9PQo=",
+      "url": "https://github.com/camejia17/SelahPos_release/releases/download/v0.1.16/SelahPos_0.1.16_x64_en-US.msi"
+    }
+  }
+}
