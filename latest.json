@@ -1,11 +1,11 @@
 {
-    "version": "0.1.91",
-    "notes": "Fixed updater permissions - auto-update fully functional",
-    "pub_date": "2026-05-06T20:15:00Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "",
-            "url": "https://github.com/camejia17/pos-system/releases/download/v0.1.91/SelahPos_0.1.91_x64_en-US.msi"
-        }
+  "version": "0.1.93",
+  "notes": "Mejoras en actualizaciones automáticas y nueva clave de firma.",
+  "pub_date": "2026-05-06T21:51:42Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRys0dmRaRnJ4YVZ5N1h4QVJRWTF6ZmFsWXFaSFdkV0hDSlY0anVkVjZTR0dEK2UxWkJEeEkya2ZNNDVKZUtrQzlVOHNOYXlkRjNFNEFwWnZ4b0JRejgrQTIwNmkzMmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTA0MjIwCWZpbGU6U2VsYWhQb3NfMC4xLjkzX3g2NF9lbi1VUy5tc2kKQU5CS2hMME95bk1OQmhTaXRqMDMveGp1bEtIYWhxbWRXZWFBSi9FT1E3MGJsMUFFNm85YnhUWm9wRWprZEwzaUl6Y0RXREtZQUI2cUFRRVJlM3VJRHc9PQo=",
+      "url": "https://github.com/camejia17/pos-system/releases/download/v0.1.93/SelahPos_0.1.93_x64_en-US.msi"
     }
+  }
 }
