@@ -1,11 +1,11 @@
 {
-  "version": "0.1.94",
+  "version": "0.1.101",
   "notes": "Corrige el flujo de auto-update para que no intente mostrar diálogos durante verificaciones automáticas y evitar el error de ACL. Incluye MSI firmado y listo para actualización automática.",
-  "pub_date": "2026-05-06T22:28:55Z",
+  "pub_date": "2026-05-06T23:19:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRys0dmRaRnJ4YWRWL2VGNGxiSkZBTzVjRUJpYXBETFFiUVo3QnBSd2JEWGtGQnRQdnZrT1ZNWWFVOVpENmU4VVZOR016eVVvdzF1VE5XZU14VmNZaEhCTTJFeHFkSkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTA2NDc0CWZpbGU6U2VsYWhQb3NfMC4xLjk0X3g2NF9lbi1VUy5tc2kKZVlPV3FHU2pUUG0vSVNxRWt3NFp6d3YyRHBXajdMSE83MGhUN0hwY0hXMTFqcXpNYmFxelFTdUYrM1JUZk9zVkNQUTZCeWJtNTVWbHNwV0pPMmpZRGc9PQo=",
-      "url": "https://github.com/camejia17/pos-system/releases/download/v0.1.94/SelahPos_0.1.94_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRys0dmRaRnJ4YVpLSFJwMmIxbmxzdzZBaWJEWFd4SFlZRTZ2TkFjTXNXZTJBa2kwM05OU0lvVmFkeEVFRzBlRWdlazBRQWFaNnJiaU5aU3dGajBoL2hhN3VUWFgrbmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTA5MzY4CWZpbGU6U2VsYWhQb3NfMC4xLjEwMV94NjRfZW4tVVMubXNpCkxndFllYStwT21jWksybWNhOWNXOEw3Vk9kdlF1d0pFKzRRbk1VNTNzSVptaEo5N3lrQTFpUkNvRDJZeVJrV1NYWm03eWhUdHlaaXhpSHJPMTg1TURBPT0K",
+      "url": "https://github.com/camejia17/pos-system/releases/download/v0.1.101/SelahPos_0.1.101_x64_en-US.msi"
     }
   }
 }
