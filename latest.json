@@ -1,11 +1,11 @@
 {
-    "version": "0.1.87",
-    "notes": "Added initial confirmation dialog for update check to debug frozen UI",
-    "pub_date": "2026-05-06T19:30:00Z",
+    "version": "0.1.89",
+    "notes": "Fixed updater permissions - update check now fully functional",
+    "pub_date": "2026-05-06T19:45:00Z",
     "platforms": {
         "windows-x86_64": {
             "signature": "",
-            "url": "https://github.com/camejia17/pos-system/releases/download/v0.1.87/SelahPos_0.1.87_x64_en-US.msi"
+            "url": "https://github.com/camejia17/pos-system/releases/download/v0.1.89/SelahPos_0.1.89_x64_en-US.msi"
         }
     }
 }
