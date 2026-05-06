@@ -1,11 +1,11 @@
-{
+﻿{
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "",
-                                             "url":  "https://github.com/camejia17/pos-system/releases/download/v0.1.84/SelahPos_0.1.84_x64_en-US.msi"
+                                             "url":  "https://github.com/camejia17/pos-system/releases/download/v0.1.85/SelahPos_0.1.85_x64_en-US.msi"
                                          }
                   },
-    "pub_date":  "2026-05-06T19:00:00Z",
-    "version":  "0.1.84",
-    "notes":  "Test auto-updater v0.1.84"
+    "pub_date":  "2026-05-06T18:46:48.9945946Z",
+    "version":  "0.1.85",
+    "notes":  "Improved updater debugging with detailed error messages"
 }
