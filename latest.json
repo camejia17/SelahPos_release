@@ -1,11 +1,11 @@
 {
-    "version": "0.1.90",
-    "notes": "Fixed Tauri v2 permission compatibility - updater now fully functional",
-    "pub_date": "2026-05-06T20:00:00Z",
+    "version": "0.1.91",
+    "notes": "Fixed updater permissions - auto-update fully functional",
+    "pub_date": "2026-05-06T20:15:00Z",
     "platforms": {
         "windows-x86_64": {
             "signature": "",
-            "url": "https://github.com/camejia17/pos-system/releases/download/v0.1.90/SelahPos_0.1.90_x64_en-US.msi"
+            "url": "https://github.com/camejia17/pos-system/releases/download/v0.1.91/SelahPos_0.1.91_x64_en-US.msi"
         }
     }
 }
