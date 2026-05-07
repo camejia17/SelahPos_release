@@ -1,7 +1,7 @@
 ﻿{
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  null,
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRys0dmRaRnJ4YVQ2Vk1GS1J6QW5ubm12VzZCYXhzQnAzQkNJQkhySTBNQzZPVjN5Um5FLyt6cDVRczF0RU5QL0U3ZTJCWGlGODNEVDdaM2hsdUxQYld1WTZKWkFWdVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTU1ODg2CWZpbGU6U2VsYWhQb3NfMC4xLjEwNl94NjRfZW4tVVMubXNpClBObFJmVmJIVk5EYzRqemxsTE52bTlhd3JyTDRnOW04Mnp6eUNZMis0a0FTUDNSUFV6TUNTUk9XK2ZhMTBscWNkc3dhWjRwZlhVZFhBdG5kTllDd0R3PT0K",
                                              "url":  "https://raw.githubusercontent.com/camejia17/SelahPos_release/main/SelahPos_0.1.106_x64_en-US.msi"
                                          }
                   },
