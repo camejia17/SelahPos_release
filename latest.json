@@ -5,7 +5,7 @@
 	"platforms": {
 		"windows-x86_64": {
 			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRys0dmRaRnJ4YWVvVDlRTG0vSXhzMVlOdFJ5UitscmEwb0d1d3NmTE5kS0s5a1ZEQmczb0dScSs0NWhZNmxrekVncTJPMFpGZjQ2bXpOUTFqU2xDOGx3OUY2ViszWndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTE5NTQ3CWZpbGU6U2VsYWhQb3NfMC4xLjEwM194NjRfZW4tVVMubXNpCm1xbDNlR1VtbythSCtOTGE1VjB2QjUxTDhxM2ZFYXl0djJtN3I4MnZMd1hiVVpJZm5wZERvYW03RjNlaC9QaTBzdFVBRzdPWUdTNTZNaEZ6ODlGU0FBPT0K",
-			"url": "https://github.com/camejia17/pos-system/releases/download/v0.1.103/SelahPos_0.1.103_x64_en-US.msi"
+			"url": "https://raw.githubusercontent.com/camejia17/SelahPos_release/main/SelahPos_0.1.103_x64_en-US.msi"
 		}
 	}
 }
