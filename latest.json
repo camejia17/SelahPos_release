@@ -1,11 +1,11 @@
 ﻿{
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRys0dmRaRnJ4YVQ2Vk1GS1J6QW5ubm12VzZCYXhzQnAzQkNJQkhySTBNQzZPVjN5Um5FLyt6cDVRczF0RU5QL0U3ZTJCWGlGODNEVDdaM2hsdUxQYld1WTZKWkFWdVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTU1ODg2CWZpbGU6U2VsYWhQb3NfMC4xLjEwNl94NjRfZW4tVVMubXNpClBObFJmVmJIVk5EYzRqemxsTE52bTlhd3JyTDRnOW04Mnp6eUNZMis0a0FTUDNSUFV6TUNTUk9XK2ZhMTBscWNkc3dhWjRwZlhVZFhBdG5kTllDd0R3PT0K",
-                                             "url":  "https://raw.githubusercontent.com/camejia17/SelahPos_release/main/SelahPos_0.1.106_x64_en-US.msi"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRys0dmRaRnJ4YVkzcHJqZHN2Tjl1eXA0aEVUNEpiUkMzbjhNY2wrZ0E4MWpjdmZRQTZReFdyRFVCRXJNU3Vqd0ZMd0JETkQzM0FaVlYwYm04Y0ZGcENxaGxvRWtDRFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTU4Njk1CWZpbGU6U2VsYWhQb3NfMC4xLjEwN194NjRfZW4tVVMubXNpCk4wWFRYem5sQ3RKdzFML0xGZlJTSDNXcWJ6TUNmaktnOHY0VVFENUluelJ4VmhPTk9uNmpSbzNEU25IdU5NRnc3eTd2SnBWWkc0N3orKzJHL2pLd0FRPT0K",
+                                             "url":  "https://raw.githubusercontent.com/camejia17/SelahPos_release/main/SelahPos_0.1.107_x64_en-US.msi"
                                          }
                   },
-    "pub_date":  "2026-05-07T12:16:35Z",
-    "version":  "0.1.106",
-    "notes":  "Prueba real desde bat"
+    "pub_date":  "2026-05-07T13:02:06Z",
+    "version":  "0.1.107",
+    "notes":  "Fix updater: firma correcta y cache-busting por version"
 }
