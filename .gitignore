@@ -1,0 +1,3 @@
+# Los instaladores viven en GitHub Releases (camejia17/pos-system), no aqui.
+*.msi
+*.msi.sig
