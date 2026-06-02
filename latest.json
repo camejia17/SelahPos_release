@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRys0dmRaRnJ4YVVmYllDTGZMZGFvOXozQllWbzg0VkJsNTM5QXFmUzNEYWtDSDZnK2FUbVFwUEV4U1BBZ3JQRnZTdERmT0ZkOGtDY1dTU1BpSXdQN3VzMjdJcC9GRUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDE5NTM4CWZpbGU6U2VsYWhQb3NfMC4xLjE0OF94NjRfZW4tVVMubXNpCjVRWWxrNW8rSENuN21rMWhGQUNjc0hZSnhGUWl6WUNaaUErM3J3ekRObDNsaXk4STBMOWFCT1FQb0FDV1JDRStka2V4ay9PWUtDSEVvZHcveXM0WEJRPT0K",
-                                             "url":  "https://github.com/camejia17/SelahPos_release/releases/download/v0.1.148/SelahPos_0.1.148_x64_en-US.msi"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRys0dmRaRnJ4YVdFT1ZSM1ZReFo5S0RZQTZ1aUFpZUxpSjFzWFZBb3hIakpPWE5USThZWlI0WDhnN2dhRFhrc3lRYmdtM29IcVJwTW9ITlVaRHVKL2RPeHFrbTUva1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDIwODk5CWZpbGU6U2VsYWhQb3NfMC4xLjE0OV94NjRfZW4tVVMubXNpCmRpeitNNkd5NGNMbmZTNWx0b2VkaVdVZzlicEFWSVRHaW5XMHE5d0xNMXlTbTF3VnFzOHRRbC9RQ3NtZ2QyblVqTFMzZEJsVCtZb2owVDdKb0JKL0RRPT0K",
+                                             "url":  "https://github.com/camejia17/SelahPos_release/releases/download/v0.1.149/SelahPos_0.1.149_x64_en-US.msi"
                                          }
                   },
-    "pub_date":  "2026-06-02T17:01:44Z",
-    "version":  "0.1.148",
+    "pub_date":  "2026-06-02T17:25:30Z",
+    "version":  "0.1.149",
     "notes":  "Actualizacion automatica"
 }
